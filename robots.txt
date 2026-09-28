@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://properseptic-stack.github.io/canada-restock-picks/sitemap.xml
